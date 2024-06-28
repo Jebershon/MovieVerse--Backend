@@ -1,4 +1,4 @@
-package com.movieverse;
+package com.movieverse.movieverseserver;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

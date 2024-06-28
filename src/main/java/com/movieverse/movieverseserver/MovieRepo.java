@@ -6,8 +6,6 @@ import java.util.Map;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.simple.JdbcClient;
 import org.springframework.stereotype.Repository;
-
-import com.movieverse.ReviewBean;
 @Repository
 public class MovieRepo {
     private final JdbcClient jdbcClient;
